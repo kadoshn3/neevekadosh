@@ -19,6 +19,9 @@
     "vue": "^3.2.45",
     "web-vitals": "^2.1.4"
   },
+  "scripts": {
+    "start": "node server/server.js"
+  },
   "browserslist": {
     "production": [
       ">0.2%",
