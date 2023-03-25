@@ -7,7 +7,7 @@
 body {
   font-family: 'Montserrat', sans-serif;
   background: url('party.jpeg') no-repeat center center fixed;
-  background-size: cover;
+  background-size: 100% auto;
   color: #fff;
 }
 
